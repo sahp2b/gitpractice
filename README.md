@@ -1,0 +1,2 @@
+# gitpractice
+init check
